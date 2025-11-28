@@ -30,6 +30,7 @@ xcuserdata/
 **/DerivedData/
 
 local.properties
+temp_auto_push.bat
 keystore.properties
 .gradle/
 gradlew
@@ -63,3 +64,5 @@ lcov.info
 /test-results/
 /playwright-report/
 /playwright/.cache/
+.gitignore
+temp_interactive_push.bat
